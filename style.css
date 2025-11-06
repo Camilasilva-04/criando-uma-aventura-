@@ -13,3 +13,7 @@ body {
        color: rgba(12, 15, 18, 0.988);
        font-family:  "Bai Jamjuree", sans-serif; 
     }
+     
+  .passo.ativo{
+     display: block;
+  }
